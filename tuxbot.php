@@ -1,4 +1,14 @@
 <?php
+/*
+ * Tux Bot. Version 1.0
+ *
+ * Puedes usar este bot a tu antojo, siempre y cuando recuerdes mencionar tanto al autor como al proyecto original.
+ * Recordad: aprender, compartir e innovar. Esa es la clave del éxito.
+ * 
+ * Un saludo,
+ * Secury
+ */
+
 
 define('TELEGRAMWEB', 'https://api.telegram.org/bot');
 define('TOKEN', '<TOKEN>');
